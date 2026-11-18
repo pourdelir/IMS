@@ -1,0 +1,39 @@
+# Visual Studio and editor state
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET build and test output
+**/bin/
+**/obj/
+TestResults/
+artifacts/
+publish/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]*/
+
+# Archive Auditor local settings and credential-bearing backups
+settings.json
+**/settings.json
+ArchiveAuditor*.json
+*.user-secrets.json
+
+# Runtime logs and local database files/backups
+*.log
+*.jsonl
+*.mdf
+*.ndf
+*.ldf
+*.bak
+*.trn
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
